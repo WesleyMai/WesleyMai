@@ -53,7 +53,7 @@ Backend development intern in the **AI Value-Added Services** department of King
 
 ## 🚀 Featured project
 
-### 🪖 AI Smart Helmet
+### AI Smart Helmet
 
 <p>
   <img src="https://img.shields.io/badge/source-closed-6B7280?style=flat-square&logo=github&logoColor=white" alt="Closed source" />
@@ -153,7 +153,7 @@ AI 增值服务部门 · 珠海 · 2026.06 – 2026.08
 - 对接合作方的学术文档处理接口，实现 RSA-SHA256 请求签名、任务提交和状态轮询。
 - 设计平台的 REST 接口，以 FastAPI 和 React 单端口应用部署到公司内网，并用 pytest 测试验证。
 
-### 🪖 项目：AI 智能头盔（闭源）
+### 项目：AI 智能头盔（闭源）
 
 面向摩托车和电动车骑手的智能安全头盔，由零一唯创研发。软件包括 Android 和 iOS 手机 App、云端后端和管理后台。
 
