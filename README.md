@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/University_of_Sydney-Advanced_Computing-E64626?style=flat-square" alt="University of Sydney, Advanced Computing" />
   <img src="https://img.shields.io/badge/HKU-Exchange_2026-4B5563?style=flat-square" alt="HKU exchange 2026" />
-  <img src="https://komarev.com/ghpvc/?username=WesleyMai&label=Profile%20views&color=0E75B6&style=flat-square" alt="Profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=WesleyMai&label=Profile%20views&countColor=%230E75B6&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center"><b>English</b> · <a href="#zh">中文</a></p>
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/platform-Android_%7C_iOS-1E3A8A?style=flat-square" alt="Platform: Android and iOS" />
 </p>
 
-A smart safety helmet for motorcycle and e-bike riders, made by **01WeiChuang (零一唯创)**. The software has three parts: a phone app for Android and iOS, a cloud backend, and an admin console. **I build most of the mobile app** in a software team of three.
+A smart safety helmet for motorcycle and e-bike riders, made by **01WeiChuang (零一唯创)**. The software has three parts: a phone app for Android and iOS, a cloud backend, and an admin console.
 
 | Feature | What it does |
 |---|---|
@@ -52,9 +52,6 @@ A smart safety helmet for motorcycle and e-bike riders, made by **01WeiChuang (�
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
 </p>
-
-> [!NOTE]
-> This is a closed-source company project, so the code isn't public. I'm happy to talk about how it works.
 
 ## 🛠️ Tech stack
 
@@ -122,16 +119,13 @@ Uncomment this block and fill in your details to show contact buttons.
 - 📱 目前在开发一款 AI 智能头盔的手机 App
 - 🤖 关注 LLM Agent、数据科学，以及经得起真实使用的软件
 
-### 🪖 项目：AI 智能头盔
+### 🪖 项目：AI 智能头盔（闭源）
 
-面向摩托车和电动车骑手的智能安全头盔，由零一唯创研发。软件包括 Android 和 iOS 手机 App、云端后端和管理后台，手机 App 主要由我开发。
+面向摩托车和电动车骑手的智能安全头盔，由零一唯创研发。软件包括 Android 和 iOS 手机 App、云端后端和管理后台。
 
 - 🆘 **摔倒与 SOS 报警**：头盔检测到摔倒后，App 开始倒计时，到时自动通知紧急联系人
 - 🗺️ **骑行记录**：实时位置、历史轨迹和每日骑行统计
 - 🎧 **互联骑行**：蓝牙连接头盔、多人语音对讲、消息推送
-
-> [!NOTE]
-> 这是公司的闭源项目，代码不公开。
 
 </details>
 
