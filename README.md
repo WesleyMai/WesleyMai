@@ -26,6 +26,31 @@
 - 🤖 Interested in LLM agents, data science, and software that holds up in real use
 - 💬 Chinese · English
 
+## 💼 Experience
+
+### 🏢 Kingsoft Office (金山办公)
+
+<p>
+  <img src="https://img.shields.io/badge/role-Backend_Development_Intern-0EA5E9?style=flat-square" alt="Role: Backend Development Intern" />
+  <img src="https://img.shields.io/badge/period-Jun%E2%80%93Aug_2026-1E3A8A?style=flat-square" alt="Period: June to August 2026" />
+  <img src="https://img.shields.io/badge/location-Zhuhai,_China-4B5563?style=flat-square" alt="Location: Zhuhai, China" />
+</p>
+
+Backend development intern in the **AI Value-Added Services** department of Kingsoft Office, the company behind WPS Office.
+
+- Rebuilt an API test tool into an internal web platform where colleagues upload PDF, Word or text files, choose a processing mode, follow each job's progress and download the result.
+- Integrated a partner's academic document-processing API, including RSA-SHA256 request signing, task submission and status polling.
+- Designed the platform's REST API and deployed it on the company intranet as a single-port FastAPI and React app, tested with pytest.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+</p>
+
 ## 🚀 Featured project
 
 ### 🪖 AI Smart Helmet
@@ -66,7 +91,7 @@ A smart safety helmet for motorcycle and e-bike riders, made by **01WeiChuang (�
   </tr>
   <tr>
     <td align="center"><b>Backend & databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mysql,sqlite,mongodb" alt="Node.js, NestJS, Express, PostgreSQL, MySQL, SQLite, MongoDB" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,express,postgres,mysql,sqlite,mongodb" alt="Node.js, NestJS, FastAPI, Express, PostgreSQL, MySQL, SQLite, MongoDB" /></td>
   </tr>
   <tr>
     <td align="center"><b>AI & data science</b></td>
@@ -118,6 +143,15 @@ Uncomment this block and fill in your details to show contact buttons.
 - 🌏 2026 年上半年在香港大学交换
 - 📱 目前在开发一款 AI 智能头盔的手机 App
 - 🤖 关注 LLM Agent、数据科学，以及经得起真实使用的软件
+
+### 💼 实习经历
+
+**金山办公 · 服务端开发实习生**<br/>
+AI 增值服务部门 · 珠海 · 2026.06 – 2026.08
+
+- 把一个接口测试工具改造成内网文档处理平台：同事可以上传 PDF、Word 或文本文件，选择处理方式，查看任务进度并下载结果。
+- 对接合作方的学术文档处理接口，实现 RSA-SHA256 请求签名、任务提交和状态轮询。
+- 设计平台的 REST 接口，以 FastAPI 和 React 单端口应用部署到公司内网，并用 pytest 测试验证。
 
 ### 🪖 项目：AI 智能头盔（闭源）
 
